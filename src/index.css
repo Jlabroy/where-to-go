@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.user {
+  cursor: pointer;
+}
+
+.users,
+.places-to-go,
+.places-to-avoid {
+  margin-bottom: 20px;
+}
